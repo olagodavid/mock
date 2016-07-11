@@ -1,0 +1,11 @@
+.header-content{
+  background-image: url(../assets/downloa.jpg);
+  height: 100vh;
+  background-size: cover;
+  color: #666666;
+  font-family:;
+}
+.header-content ul li {
+  display: inline-block;
+  text-decoration: none;
+}
